@@ -1,4 +1,4 @@
-# sg-hackathon
+# IBM Bluemix Hackathon
 
 Hackathon is fun. Let's get started with Bluemix.
 
